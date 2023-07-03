@@ -23,7 +23,7 @@ Before running the OrderBot code, make sure you have the following:
 1. Clone the repository:
 
 ```shell
-git clone [https://github.com/andrecastropaiva/openai_python_chatbot.git]
+git clone (https://github.com/andrecastropaiva/openai_python_chatbot.git)
 ```
 
 2. Install the required dependencies:
